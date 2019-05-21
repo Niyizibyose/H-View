@@ -1,1 +1,16 @@
+head {
+    font-display: center;
+}
+
+body {
+    background-color: pink;
+    background-image: john.JPG;
+}
+
+.hire {
+    length: 10cm;
+    width: 5cm;
+    padding: 2px;
+    display: inline;
+}
 
